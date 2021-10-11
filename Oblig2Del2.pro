@@ -4,4 +4,9 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        main.cpp
+        main.cpp \
+        quadtre.cpp
+
+HEADERS += \
+    Vector2d.h \
+    quadtre.h
