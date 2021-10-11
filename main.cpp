@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    //Lager quadtreet
+    //Lager kvadratet
     Vector2d a{0, 0};
     Vector2d b{16, 0};
     Vector2d c{16, 16};
